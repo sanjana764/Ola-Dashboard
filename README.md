@@ -23,10 +23,10 @@ The goal of this dashboard is to enable **data-backed decision-making** for:
 ### ScreenShots
 ![Ola Dashboard Preview](https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111137.png)
 
-https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111156.png
+![Ola Dashboard Preview](https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111156.png)
 
-https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111210.png
+![Ola Dashboard Preview](https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111210.png)
 
-https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111224.png
+![Ola Dashboard Preview](https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111224.png)
 
-https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111235.png
+![Ola Dashboard Preview](https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111235.png)
