@@ -21,7 +21,7 @@ The goal of this dashboard is to enable **data-backed decision-making** for:
 *PowerBi
 
 ### ScreenShots
-https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111137.png
+![Dashboard Preview].(https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111137.png)
 
 https://github.com/sanjana764/Ola-Dashboard/blob/main/Screenshot%202025-07-16%20111156.png
 
